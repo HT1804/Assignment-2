@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/2022-2023/Q1-Software engineering techniques/Assignment 2/Project 2/main.cpp
+iostream
+-
+operation.h
+/mnt/d/2022-2023/Q1-Software engineering techniques/Assignment 2/Project 2/operation.h
+
+/mnt/d/2022-2023/Q1-Software engineering techniques/Assignment 2/Project 2/operation.cpp
+operation.h
+/mnt/d/2022-2023/Q1-Software engineering techniques/Assignment 2/Project 2/operation.h
+math.h
+-
+iostream
+-
+
+/mnt/d/2022-2023/Q1-Software engineering techniques/Assignment 2/Project 2/operation.h
+
